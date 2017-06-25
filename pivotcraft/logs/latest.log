@@ -1,0 +1,40 @@
+[09:57:34] [Server thread/INFO]: Starting minecraft server version 1.12
+[09:57:34] [Server thread/INFO]: Loading properties
+[09:57:34] [Server thread/INFO]: Default game type: SURVIVAL
+[09:57:34] [Server thread/INFO]: Generating keypair
+[09:57:34] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[09:57:34] [Server thread/INFO]: Using default channel type
+[09:57:35] [Server thread/INFO]: Preparing level "world"
+[09:57:35] [Server thread/INFO]: Loaded 488 advancements
+[09:57:36] [Server thread/INFO]: Preparing start region for level 0
+[09:57:37] [Server thread/INFO]: Preparing spawn area: 4%
+[09:57:38] [Server thread/INFO]: Preparing spawn area: 8%
+[09:57:39] [Server thread/INFO]: Preparing spawn area: 12%
+[09:57:40] [Server thread/INFO]: Preparing spawn area: 16%
+[09:57:41] [Server thread/INFO]: Preparing spawn area: 20%
+[09:57:42] [Server thread/INFO]: Preparing spawn area: 24%
+[09:57:43] [Server thread/INFO]: Preparing spawn area: 30%
+[09:57:44] [Server thread/INFO]: Preparing spawn area: 37%
+[09:57:45] [Server thread/INFO]: Preparing spawn area: 45%
+[09:57:46] [Server thread/INFO]: Preparing spawn area: 52%
+[09:57:47] [Server thread/INFO]: Preparing spawn area: 59%
+[09:57:48] [Server thread/INFO]: Preparing spawn area: 68%
+[09:57:49] [Server thread/INFO]: Preparing spawn area: 76%
+[09:57:50] [Server thread/INFO]: Preparing spawn area: 84%
+[09:57:51] [Server thread/INFO]: Preparing spawn area: 92%
+[09:57:52] [Server thread/INFO]: Done (17,811s)! For help, type "help" or "?"
+[09:58:48] [User Authenticator #1/INFO]: UUID of player pietermantel is b9927083-7b16-498e-8a7a-3812d8fd20ca
+[09:58:48] [Server thread/INFO]: pietermantel[/127.0.0.1:50971] logged in with entity id 2163 at (-53.5, 69.0, 246.5)
+[09:58:48] [Server thread/INFO]: pietermantel joined the game
+[09:58:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4341ms behind, skipping 86 tick(s)
+[09:58:55] [Server thread/INFO]: pietermantel lost connection: Internal Exception: java.io.IOException: De externe host heeft een verbinding verbroken
+[09:58:55] [Server thread/INFO]: pietermantel left the game
+[09:59:00] [Server thread/INFO]: Opped pietermantel
+[09:59:10] [Server thread/INFO]: Stopping the server
+[09:59:10] [Server thread/INFO]: Stopping server
+[09:59:10] [Server thread/INFO]: Saving players
+[09:59:10] [Server thread/INFO]: Saving worlds
+[09:59:10] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[09:59:10] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[09:59:10] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[09:59:10] [Server Shutdown Thread/INFO]: Stopping server
